@@ -1,0 +1,6 @@
+{
+  "name": "Magnífico Burger & Pizza - Cardápio Digital & Design System",
+  "description": "Cardápio digital de alto padrão e especificação completa de UX/UI para Magnífico Burger e Pizza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
